@@ -13,7 +13,7 @@
 
 ---
 
-## ✨ Features (v3.1)
+## ✨ Features
 
 ### 1. Dual Layout Engine
 Switch instantly between architectural paradigms without rewriting data:
